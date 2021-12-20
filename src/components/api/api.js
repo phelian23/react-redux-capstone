@@ -12,3 +12,5 @@ const getLeagues = async () => {
       throw new Error(error.message);
     }
   };
+
+export default getLeagues;

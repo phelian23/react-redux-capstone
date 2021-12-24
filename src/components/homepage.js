@@ -7,7 +7,7 @@ const HomePage = () => (
   <div>
     <Routes>
       <Route exact path="/" element={<AllSports />} />
-      <Route exact path="/sports" element={<Sport />} />
+      <Route path="/*" element={<Sport />} />
     </Routes>
   </div>
 );

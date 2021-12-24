@@ -50,7 +50,7 @@ const AllSports = () => {
           <FiSettings className={styles.icons} />
         </div>
       </header>
-      <Link className={styles.link} to="/sports" onClick={() => dispatch(displayLeague(allCoin.name))}>
+      <Link className={styles.link} to="/allcoins" onClick={() => dispatch(displayLeague(allCoin.name))}>
         <div className={styles.main}>
           <h2>Pick a Category</h2>
           <span>The fastest way to check trends</span>
@@ -60,7 +60,7 @@ const AllSports = () => {
       <div className={styles.subMain}>
         <ul className={styles.list}>
           {categories.map((coin) => (
-            <Link key={coin.name} className={styles.link} to="/sports" onClick={() => dispatch(displayLeague(coin.name))}>
+            <Link key={coin.name} className={styles.link} to={`/${coin.name}`} onClick={() => dispatch(displayLeague(coin.name))}>
               <li className={styles.listItem}>
                 <h3 className={styles.listName}>{coin.name}</h3>
                 <p>{sumCap(coin.coinArr)}</p>

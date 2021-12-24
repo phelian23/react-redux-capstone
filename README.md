@@ -1,11 +1,6 @@
-# Bookstore
-The Bookstore is a that allows user to:
+# Cryptocurrency Trend
 
-- Display a list of books.
-- Add a book.
-- Remove a selected book.
-
-![screenshot](./src/images/bookPage.PNG)
+This is a mobile web application that displays lists of cryptocurrencies and their details. The coin list and details is get from the coincap API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -49,6 +44,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) anyone whose design was used.
 - Inspiration
 - etc

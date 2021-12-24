@@ -15,6 +15,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Live Demo](https://hopeful-easley-4dce01.netlify.app/)
 
+## Presentation Video
+
+[Video Link](https://www.loom.com/share/77c70cf74d93434d8b4677d2c50542f1)
+
 ## Getting Started
 
 > To get a local copy follow the following steps:

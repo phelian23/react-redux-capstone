@@ -6,7 +6,7 @@ import Sport from './sport';
 const HomePage = () => (
   <div>
     <Routes>
-      <Route exact path="/" element={<AllSports />} />
+      {['/', '/react-redux-capstone'].map((path) => <Route path={path} element={<AllSports />} key="key-1" />)}
       <Route path="/*" element={<Sport />} />
     </Routes>
   </div>

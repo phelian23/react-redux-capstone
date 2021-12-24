@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-redux-capstone/static/css/main.02ce798a.css",
+    "main.js": "/react-redux-capstone/static/js/main.70f6d177.js",
+    "static/js/787.8732d6f3.chunk.js": "/react-redux-capstone/static/js/787.8732d6f3.chunk.js",
+    "static/media/Cryptocurrency_Gold.png": "/react-redux-capstone/static/media/Cryptocurrency_Gold.69cbe6653c2d58bdcaf4.png",
+    "static/media/PngItem_5207199.png": "/react-redux-capstone/static/media/PngItem_5207199.40b6f214345b9a9e0f00.png",
+    "index.html": "/react-redux-capstone/index.html",
+    "main.02ce798a.css.map": "/react-redux-capstone/static/css/main.02ce798a.css.map",
+    "main.70f6d177.js.map": "/react-redux-capstone/static/js/main.70f6d177.js.map",
+    "787.8732d6f3.chunk.js.map": "/react-redux-capstone/static/js/787.8732d6f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02ce798a.css",
+    "static/js/main.70f6d177.js"
+  ]
+}

@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Application Page url
 
-[Live Demo](https://hopeful-easley-4dce01.netlify.app/)
+[Live Demo](https://phelian23.github.io/react-redux-capstone)
 
 ## Presentation Video
 
